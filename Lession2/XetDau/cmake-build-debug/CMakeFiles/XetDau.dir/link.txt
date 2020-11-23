@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/XetDau.dir/main.cpp.o  -o XetDau 
