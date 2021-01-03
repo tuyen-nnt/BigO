@@ -1,0 +1,3 @@
+/home/tuyennnt/CLionProjects/Candysharing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tuyennnt/CLionProjects/Candysharing/cmake-build-debug/CMakeFiles/Candysharing.dir
+/home/tuyennnt/CLionProjects/Candysharing/cmake-build-debug/CMakeFiles/edit_cache.dir
