@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tuyennnt/CLionProjects/DienTichChuViTamgiac/main.cpp
+iostream
+-
+math.h
+-
+iomanip
+-
+
