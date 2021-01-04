@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ElectricFee.dir/main.cpp.o  -o ElectricFee 

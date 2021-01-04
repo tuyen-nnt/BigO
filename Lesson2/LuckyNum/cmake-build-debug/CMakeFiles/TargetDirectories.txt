@@ -1,0 +1,3 @@
+/home/tuyennnt/CLionProjects/LuckyNum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tuyennnt/CLionProjects/LuckyNum/cmake-build-debug/CMakeFiles/LuckyNum.dir
+/home/tuyennnt/CLionProjects/LuckyNum/cmake-build-debug/CMakeFiles/edit_cache.dir
