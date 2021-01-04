@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/List02.dir/main.cpp.o  -o List02 
