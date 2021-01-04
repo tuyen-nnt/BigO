@@ -1,0 +1,3 @@
+/home/tuyennnt/BigO/Lesson10/Struct02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tuyennnt/BigO/Lesson10/Struct02/cmake-build-debug/CMakeFiles/Struct02.dir
+/home/tuyennnt/BigO/Lesson10/Struct02/cmake-build-debug/CMakeFiles/edit_cache.dir
