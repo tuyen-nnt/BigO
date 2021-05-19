@@ -1,0 +1,3 @@
+/home/tuyennnt/BigO/Lesson14/Tree01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tuyennnt/BigO/Lesson14/Tree01/cmake-build-debug/CMakeFiles/Tree01.dir
+/home/tuyennnt/BigO/Lesson14/Tree01/cmake-build-debug/CMakeFiles/edit_cache.dir

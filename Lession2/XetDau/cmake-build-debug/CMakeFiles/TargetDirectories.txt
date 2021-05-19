@@ -1,3 +1,0 @@
-/home/tuyennnt/CLionProjects/XetDau/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/tuyennnt/CLionProjects/XetDau/cmake-build-debug/CMakeFiles/XetDau.dir
-/home/tuyennnt/CLionProjects/XetDau/cmake-build-debug/CMakeFiles/edit_cache.dir
